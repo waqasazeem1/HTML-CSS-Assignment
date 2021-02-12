@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.9;
+    
+}
+ .main_heading{
+    padding: 30px;
+ }
+ .institution_name{
+     font-family:'Times New Roman', Times, serif;
+     text-shadow: 2px 2px grey;
+     font-size: 30px;
+     padding-left: 30px;
+ }
+ .PIAIC_description{
+     padding: 30px;
+     line-height: 30px;
+     font-size: 23px;
+ }
+ .technology_list{
+    padding: 30px 30px 10px 70px;
+    line-height: 30px;
+    font-size: 23px;
+
+    
+}
+
+.technology_list li a{
+    text-decoration: none;
+}
+.CNC{
+    padding: 30px;
+    line-height: 30px;
+    font-size: 23px;
+}
+.CNC h2::first-letter,
+.AI h2::first-letter,
+.IOT h2::first-letter,
+.BC h2::first-letter{
+    font-weight: bold;
+    font-size: 60px;
+    
+    
+}
+
+.CNC h2{
+    line-height: 70px;
+}
+
+.AI{
+    padding: 30px;
+    line-height: 30px;
+    font-size: 23px;
+}
+
+.AI h2{
+    line-height: 70px;
+}
+.IOT{
+    padding: 30px;
+    line-height: 30px;
+    font-size: 23px;
+}
+.IOT h2{
+    line-height: 70px;
+}
+
+.BC{
+    padding: 30px;
+    line-height: 30px;
+    font-size: 23px;
+}
+.BC h2{
+    line-height: 70px;
+
+}
+
+
+ 
