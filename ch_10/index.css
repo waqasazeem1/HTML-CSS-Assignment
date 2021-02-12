@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+text-align: center;
+margin-top: 100px;
+
+}
+table{
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 50px;
+    overflow-x: auto;
+}
+
+table tr td{
+    border: 2px solid black;
+    padding: 7px;
+}
+.alkali_metal{
+    background-color: #da70d6;
+}
+.transition_metal{
+    background-color: #fcd700;
+}
+.lanthanides{
+    background-color: #fcb6c1;
+}
+.actinides{
+    background-color: #f49670;
+
+}
+.poor_metal{
+    background-color: #4ebcf8;
+}
+.semi_metal{
+background-color: #6f6cdb;
+}
+.non_metal{
+    background-color: #6c6dd8;
+}
+.noble_gases{
+    background-color: #e9c666;
+}
+.alkaline_earth_metal{
+    background-color: #bde251;
+}
+.empty{
+    width: 5px;
+}
